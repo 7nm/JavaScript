@@ -1,10 +1,10 @@
 # JavaScript 常用效果和样式
-## attached 引用方式
+### attached 引用方式
     引用方式：
 	<link rel="stylesheet" href="../attached.min.css">
 	<script type="text/javascript" src="../attached.min.js"></script>
 
-# attached 属性
+### attached 属性
 #### alert 属性：
     alert("内容", //  可传入html 例如："<div>我是attached.alert 框！</div>"
     {
