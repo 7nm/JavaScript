@@ -1,5 +1,5 @@
-# attached 引用方式
-
+#JavaScript 常用效果和样式
+## attached 引用方式
     引用方式：
 	<link rel="stylesheet" href="../attached.min.css">
 	<script type="text/javascript" src="../attached.min.js"></script>
