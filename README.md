@@ -1,4 +1,4 @@
-#JavaScript 常用效果和样式
+# JavaScript 常用效果和样式
 ## attached 引用方式
     引用方式：
 	<link rel="stylesheet" href="../attached.min.css">
