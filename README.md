@@ -24,7 +24,7 @@
         className:"className",//最外层样式类名称 ，默认 "mask-wrap"
         txts:["同意","不同意"],// 按钮名字，默认[“确定”，“取消”]
         title:"我是标题",// 默认 “消息”
-        resolve:function(){},//按钮事件
+        sure:function(){},//按钮事件
         cancel:function(){},//按钮事件
     });
     
