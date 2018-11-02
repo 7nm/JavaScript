@@ -1,4 +1,4 @@
-# JavaScript 常用效果和样式
+# MASK
 ### mask 引用方式
     引用方式：
 	<link rel="stylesheet" href="../mask.min.css">
